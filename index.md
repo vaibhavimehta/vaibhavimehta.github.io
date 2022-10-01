@@ -22,3 +22,5 @@ To create an ordered list(recipe for hot chocolate):
 
 Adding a link:
 [link to ischool dataviz github](https://github.com/UIUC-iSchool-DataViz)
+
+Adding link to google: [google link:](https://www.google.com/)
