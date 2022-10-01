@@ -19,3 +19,6 @@ To create an ordered list(recipe for hot chocolate):
 ![image_of_hot_chocolate](https://www.ohnuts.com/wpnutblog/wp-content/uploads/2014/01/toasted-marshmallow-hot-chocolate-9.jpg)
 
 ![own_image](https://github.com/vaibhavimehta/vaibhavimehta.github.io/blob/main/plot%20image.JPG)
+
+Adding a link:
+[link to ischool dataviz github](https://github.com/UIUC-iSchool-DataViz)
