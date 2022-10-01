@@ -16,3 +16,4 @@ To create an ordered list(recipe for hot chocolate):
 4. Stir it well so no lumps are formed
 5. Pour it into a mug, put some marshmellows and enjoy! :)
 
+![image_of_hot_chocolate](https://www.ohnuts.com/wpnutblog/wp-content/uploads/2014/01/toasted-marshmallow-hot-chocolate-9.jpg)
